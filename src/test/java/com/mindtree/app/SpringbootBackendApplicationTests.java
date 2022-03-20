@@ -1,4 +1,4 @@
-package net.javaguides.springboot;
+package com.mindtree.app;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
